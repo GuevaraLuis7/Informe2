@@ -16,15 +16,15 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 *Objetivo General*
 
-Comprender  el  método  de  análisis   de malla, y poder establecer una relación entre el uso de la Ley de Ohm y las Leyes de Kirchhoff   con   ésta,   además   de   los conceptos   básicos   del  análisis   de circuitos.
+- Comprender  el  método  de  análisis   de malla, y poder establecer una relación entre el uso de la Ley de Ohm y las Leyes de Kirchhoff   con   ésta,   además   de   los conceptos   básicos   del  análisis   de circuitos.
 
 *Objetivos específicos*
 
-Entender la importancia de tener claro los conceptos básicos   del   análisis   de circuitos, para  poder llevarlos a la experimentación práctica.
+- Entender la importancia de tener claro los conceptos básicos   del   análisis   de circuitos, para  poder llevarlos a la experimentación práctica.
 
-Identificar la forma correcta de medición de corriente y voltaje con el multímetro para circuitos, y más específicamente de los circuitos analizados por mallas.
+- Identificar la forma correcta de medición de corriente y voltaje con el multímetro para circuitos, y más específicamente de los circuitos analizados por mallas.
 
-Entender las conexiones y forma de uso del protoboard, del multímetro y de los   demás materiales de laboratorio para hacer un uso correcto de ellos, ya que cada uno tiene una forma específica de uso.
+- Entender las conexiones y forma de uso del protoboard, del multímetro y de los   demás materiales de laboratorio para hacer un uso correcto de ellos, ya que cada uno tiene una forma específica de uso.
 
 
 ### Marco Teórico
