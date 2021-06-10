@@ -34,6 +34,7 @@ En un circuito eléctrico, una malla es un camino cerrado formado por elementos 
 Análisis de mallas
 Para el análisis de mallas solo es necesaria la segunda ley de Kirchhoff, ya que esta se enfoca en circuitos cerrados. La segunda ley de Kirchhoff nos dice que la adición algebraica de todos los voltajes en una malla o bucle cerrado, debe ser igual a cero. Viéndolo de una representación matemática, la segunda ley de Kirchhoff se expresa de la consiguiente manera:
 
+<img src="imagenes/imagen1.jepg">
 
 Al referirnos a la adición algebraica, implica el cuidado de las polaridades de la fuente de energía, así como todos los signos de las caídas de tensión de cada unidad de los componentes eléctricos.
 
