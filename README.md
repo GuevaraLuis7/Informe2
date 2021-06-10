@@ -69,7 +69,7 @@ Pasos a seguir
 
 Procedimiento:
 
-
+<img src=IMAGENES/CIRCUITO.jpg width= "515">
 
 ### Resultados
 
