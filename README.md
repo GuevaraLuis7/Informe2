@@ -63,7 +63,7 @@ Así, al sumar todos los voltajes en un lazo cerrado, considerando la tensión d
 
 Material y equipo requerido
 
-<img src=IMAGENES/imagen4.jpeg width= "270">
+<img src=IMAGENES/imagen4.jpeg width= "250">
 
 Pasos a seguir
 
