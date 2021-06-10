@@ -15,6 +15,7 @@ GUEVARA CARVAJAL LUIS EDUARDO
 ### Objetivo
 
 *Objetivo General*
+
 Comprender  el  método  de  análisis   de malla, y poder establecer una relación entre el uso de la Ley de Ohm y las Leyes de Kirchhoff   con   ésta,   además   de   los conceptos   básicos   del  análisis   de circuitos.
 
 *Objetivos específicos*
