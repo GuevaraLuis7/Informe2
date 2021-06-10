@@ -65,6 +65,12 @@ Material y equipo requerido
 
 <img src=IMAGENES/imagen4.jpeg width= "270">
 
+Pasos a seguir
+
+Procedimiento:
+
+
+
 ### Resultados
 
 ### Video
