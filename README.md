@@ -38,11 +38,15 @@ Para el análisis de mallas solo es necesaria la segunda ley de Kirchhoff, ya qu
 
 Al referirnos a la adición algebraica, implica el cuidado de las polaridades de la fuente de energía, así como todos los signos de las caídas de tensión de cada unidad de los componentes eléctricos.
 
+<img src=IMAGENES/imagen2.jpeg width= "320">
+
 De manera que, al instante de emplear la segunda ley de Kirchhoff, hay que ser estrechamente precavidos en sentido de la orientación de la corriente y, por ende, con los signos de los voltajes de los componentes contenidos dentro de la malla. 
 
  Esta ley está fundamentada en la ley de la conservación de la energía, ya que establece que cada malla es un camino conductor cerrado, en el cual no se genera ni se pierde potencial. Por ello, la corriente no puede aparecer ni esfumarse de la nada. 
 
  En resultado, la adición de todos los voltajes alrededor de este camino debe ser nula, para mantener el balance energético dentro del lazo.
+ 
+ <img src=IMAGENES/imagen3.jpeg width= "320">
 
 La segunda ley de Kirchhoff también obedece a la ley de conservación de la carga, ya que a medida que los electrones fluyen por un circuito, pasan a través de uno o varios componentes.
 
@@ -56,6 +60,10 @@ Así, al sumar todos los voltajes en un lazo cerrado, considerando la tensión d
 
 
 ### Explicación del procedimiento
+
+Material y equipo requerido
+
+<img src=IMAGENES/imagen4.jpeg width= "320">
 
 ### Resultados
 
