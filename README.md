@@ -91,8 +91,26 @@ Tabla 1.1 Estudio de las mallas
 
 Porcentaje de error relativo entre los valores teóricos y los experimentales
 
+<img src=IMAGENES/error.jpeg width= "350">
 
+Análisis de los resultados
+
+- Se pudo evidenciar mediante la Tabla 1.1 con el procedimiento teórico y experimental, no hubo tanta diferencia más clara hubo mucha similitud a lo sabemos que el proceso que se lleva a cabo estuvo correcto.
+ 
+- Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy  aproximados a los valores experimentales, con errores menores a 0.43%.
+
+- Las leyes de Kirchhof son muy importantes estudiarlas desde el principio de circuitos eléctricos puesto que nos ayudará para manejar diferentes técnicas y con ello resolver circuitos complejos de manera ordenada y rápida.
 
 ### Video
 
 ### Conclusiones
+
+- Podemos concluir que la primera ley de Kirchhoff es válida, en un nodo la suma de las corrientes entrantes es igual a la suma de corrientes salientes.
+
+- Con esta práctica de laboratorio así haya sido virtual se pudo llegar a evidenciar el uso de mallas para que la solución sea aún más fácil que por otro método, eso sí siempre hay que tener en cuenta que existen distintos métodos de solución.
+
+- Este laboratorio resultó de gran ayuda, ya que pudimos armar circuitos con varias resistencias y con 2 fuentes de voltaje y mediante la práctica vamos reforzando los conceptos aprendidos en clases.
+
+### Bibliografía
+
+Gómez, A. J. (Julio de 2019). Universidad de los Andes. Obtenido de Universidad de los Andes: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf
