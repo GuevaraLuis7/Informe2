@@ -112,6 +112,8 @@ Análisis de los resultados
 
 ### Video
 
+https://youtu.be/gQPgkCWVpPQ
+
 ### Conclusiones
 
 - Podemos concluir que la primera ley de Kirchhoff es válida, en un nodo la suma de las corrientes entrantes es igual a la suma de corrientes salientes.
