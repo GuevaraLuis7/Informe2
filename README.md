@@ -67,6 +67,15 @@ Material y equipo requerido
 
 Pasos a seguir
 
+1.- Iniciar el simulador y seleccionar los materiales a utilizar.
+
+2.- Preparar los materiales en el simulador: resistencia con cada valor y las fuentes de energía.
+3.- Elaborar un circuito con las cinco resistencias con la forma indicada en la guía.
+
+4.- Medir cada una de las corrientes de las  mallas y anotar los resultados.
+
+5.- Analizar las mallas para obtener los resultados analiticos de las corrientes.
+
 Procedimiento:
 
 <img src=IMAGENES/CIRCUITO.jpg width= "515">
