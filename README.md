@@ -96,7 +96,7 @@ Resolviendo el ejercicio mediante el análisis de mallas:
 
 <img src=IMAGENES/tabla.jpeg width= "450">
 
-Tabla 1.1 Estudio de las mallas
+*Tabla 1.1 Estudio de las mallas*
 
 Porcentaje de error relativo entre los valores teóricos y los experimentales
 
@@ -112,7 +112,7 @@ Análisis de los resultados
 
 ### Video
 
-
+https://youtu.be/Qf2Ia05UPlk
 
 ### Conclusiones
 
@@ -124,7 +124,9 @@ Análisis de los resultados
 
 ### Anexos
 
+<img src=IMAGENES/Anexo1.jpg width= "515">
 
+*Anexo . Circuito en Tinkerkad*
 
 ### Bibliografía
 
