@@ -73,6 +73,14 @@ Procedimiento:
 
 *Figura 1. Circuito de analisis de mallas*
 
+<img src=IMAGENES/CIRCUITO2.jpeg width= "515">
+
+*Figura 2. Circuito realizado en analisis*
+
+<img src=IMAGENES/solucion1.jpeg width= "510">
+
+<img src=IMAGENES/solucion2.jpeg width= "515">
+
 ### Resultados
 
 ### Video
