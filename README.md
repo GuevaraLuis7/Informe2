@@ -85,6 +85,14 @@ Resolviendo el ejercicio mediante el análisis de mallas:
 
 ### Resultados
 
+<img src=IMAGENES/tabla.jpeg width= "450">
+
+Tabla 1.1 Estudio de las mallas
+
+Porcentaje de error relativo entre los valores teóricos y los experimentales
+
+
+
 ### Video
 
 ### Conclusiones
