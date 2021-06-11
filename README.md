@@ -112,7 +112,7 @@ Análisis de los resultados
 
 ### Video
 
-https://youtu.be/gQPgkCWVpPQ
+
 
 ### Conclusiones
 
@@ -124,4 +124,8 @@ https://youtu.be/gQPgkCWVpPQ
 
 ### Bibliografía
 
-Gómez, A. J. (Julio de 2019). Universidad de los Andes. Obtenido de Universidad de los Andes: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf
+Gómez, A. J. (Julio de 2019). Universidad de los Andes. Obtenido de Universidad de los Andes: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf 
+
+McAllister., W. (Mayo de 2017). Khan Academy. Obtenido de Khan Academy: s.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method 
+
+Wikipedia.org. (14 de Octubre de 2020). Wikipedia. Obtenido de Wikipedia: https://es.wikipedia.org/wiki/An%C3%A1lisis_de_mallas
