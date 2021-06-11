@@ -77,6 +77,8 @@ Procedimiento:
 
 *Figura 2. Circuito realizado en analisis*
 
+Resolviendo el ejercicio mediante el análisis de mallas:
+
 <img src=IMAGENES/solucion1.jpeg width= "510">
 
 <img src=IMAGENES/solucion2.jpeg width= "515">
