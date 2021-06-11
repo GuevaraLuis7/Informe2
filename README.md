@@ -122,6 +122,10 @@ Análisis de los resultados
 
 - Este laboratorio resultó de gran ayuda, ya que pudimos armar circuitos con varias resistencias y con 2 fuentes de voltaje y mediante la práctica vamos reforzando los conceptos aprendidos en clases.
 
+### Anexos
+
+
+
 ### Bibliografía
 
 Gómez, A. J. (Julio de 2019). Universidad de los Andes. Obtenido de Universidad de los Andes: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf 
